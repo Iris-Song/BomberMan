@@ -1,5 +1,5 @@
 # BomberMan
-undergraduate Computer Graph group project
+undergraduate Computer Graphics group project
 
 ### [report](https://github.com/Iris-Song/BomberMan/blob/master/final_report-%20en%20.pdf)
 
